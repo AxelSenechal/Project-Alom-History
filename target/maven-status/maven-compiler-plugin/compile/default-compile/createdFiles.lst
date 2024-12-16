@@ -1,0 +1,7 @@
+com\example\history\Application.class
+com\example\history\repository\MessageRepository.class
+com\example\history\service\MessageService.class
+com\example\history\service\TokenService.class
+com\example\history\kafka\KafkaConsumer.class
+com\example\history\model\Message.class
+com\example\history\controller\HistoryController.class
